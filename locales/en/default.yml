@@ -1,0 +1,17 @@
+buttons:
+  next: Continue
+govuk:
+  serviceName: Service name
+  backLink: Back
+  errorSummaryTitle: There is a problem
+  error: Error
+  warning: Warning
+  skipLink: Skip to main content
+  statusCode: Status code
+  cookieBanner: This service uses cookies for it to function.
+kbridh:
+  embassy: The Embassy of the Republic of Indonesia
+  embassyLocation: The Hague, the Netherlands
+validation:
+  required: You must answer this question
+  email: You must enter a valid email address
